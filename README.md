@@ -11,8 +11,8 @@
 - ⚡ Fun fact **I love sketching and swimming !**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitinr&layout=compact&hide=html" alt="itsnitinr" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnitinr&show_icons=true" alt="itsnitinr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshDeshwal&layout=compact&hide=html" alt="VanshDeshwal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VanshDeshwal&show_icons=true" alt="VanshDeshwal" /></p>
 
 
 <p align="center">
