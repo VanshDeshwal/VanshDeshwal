@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<a href="https://twitter.com/VanshDeshwal9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="VanshDeshwal9" height="30" width="30" /></a>
+<a href="www.linkedin.com/in/vansh-deshwal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vansh-deshwal/" height="30" width="30" /></a>
+<a href="https://www.instagram.com/deshwal95/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deshwal95" height="30" width="30" /></a>
+</p>
