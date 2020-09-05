@@ -11,6 +11,10 @@
 - ⚡ Fun fact **I love sketching and swimming !**
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitinr&layout=compact&hide=html" alt="itsnitinr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnitinr&show_icons=true" alt="itsnitinr" /></p>
+
+
 <p align="center">
 <a href="https://twitter.com/VanshDeshwal9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="VanshDeshwal9" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/vansh-deshwal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vansh-deshwal/" height="30" width="30" /></a>
