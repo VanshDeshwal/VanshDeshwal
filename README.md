@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
+<h3 align="center">I'm a Electronics and Communications Engineering student 👨🏻‍💻 from Delhi, India who loves pentesting.</h3>
 
-<!--
-**VanshDeshwal/VanshDeshwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🔭 I’m currently working on **building websites and native applications**.
+- 🌱 I’m currently learning **VueJS and some intermediate React concepts**
+- 👯 I’m looking to collaborate on **MERN stack projects**
+- 🤝 I’m looking for help with [Driwwwle](https://github.com/itsnitinr/driwwwle/)
+- 👨‍💻 All of my projects are available at [itsnitinr.github.io](itsnitinr.github.io) -->
+- 💬 Ask me about **Linux, productivity, websites, computer hardware.**
+- 📫 How to reach me: [Email 📧](mailto:vanshdeshwal66@gmail.com) or [Telegram 💬](https://t.me/Vansh_Deshwal)
+- ⚡ Fun fact **I love sketching and swimming !**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
 <a href="https://twitter.com/VanshDeshwal9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="VanshDeshwal9" height="30" width="30" /></a>
